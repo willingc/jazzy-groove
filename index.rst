@@ -13,11 +13,12 @@ warm and welcoming encouragement to jump into CPython (core Python).
 
 **This guide is under development.**
 
-The official documentation of CPython is very detailed, helpful, and highly
-recommended reading. A nod of appreciation to documentation contributors, past
-and present. A good "first stop" doc is the Python Developer's Guide.
+The `official documentation of CPython <https://docs.python.org/3/>`_ is very
+detailed, helpful, and highly recommended reading. A nod of appreciation to
+documentation contributors, past and present. A good "first stop" doc is the
+`Python Developer's Guide <https://docs.python.org/devguide/index.html>`_.
 
-One, two, three, four. One, two, three, four. You've got rhythm. You have the
+One, two, three, four. One, two, three, four. You have rhythm. You have
 interest. Next step? Start finding your CPython contribution groove.
 
 
