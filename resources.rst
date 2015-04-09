@@ -4,16 +4,18 @@ Resources
 =========
 Python Developer's Guide
 ------------------------
-<https://docs.python.org/devguide/index.html>
+`Python Developer's Guide <https://docs.python.org/devguide/index.html>`_
+Official documentation of how to contribute to CPython.
 
-Quickstart,
+`Quickstart <https://docs.python.org/devguide/#quick-start>`_
+A few simple steps to getting the source code and running the tests.
 
-`Python Developer <FAQ https://docs.python.org/devguide/faq.html>`_
-
+Helpful 'Official' Documentation
+--------------------------------
+`Python Developer FAQ <https://docs.python.org/devguide/faq.html>`_
 Communications, Version Control, SSH, General
 
 `Developer Log <https://docs.python.org/devguide/developers.html>`_
-
 Developers with commit privileges from April 2005
 
 `Core Developer Responsiblities <https://docs.python.org/devguide/coredev.html#responsibilities>`_
@@ -36,19 +38,16 @@ More docs
 
 Tools
 -----
-Issue Tracker
-http://bugs.python.org/
+`Issue Tracker <http://bugs.python.org/>`_
 
-Buildbot
-https://www.python.org/dev/buildbot/
+`Buildbot <https://www.python.org/dev/buildbot/>`_
 
 
 Release information
 -------------------
 
-PEPs Python Enhancement Proposals
-https://www.python.org/dev/peps/
-Upcoming release info
+`PEPs Python Enhancement Proposals <https://www.python.org/dev/peps/>`_
+Upcoming release content and timelines can be found here.
 
 Communication
 -------------

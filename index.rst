@@ -29,7 +29,6 @@ Contents:
 
    finding-your-groove.rst
    resources.rst
-   takeaway.rst
    sprints.rst
 
 
@@ -39,4 +38,3 @@ Indices and tables
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
-
