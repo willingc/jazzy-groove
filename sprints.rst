@@ -16,6 +16,8 @@ Sprint participants
 -------------------
 `Helsinki Python Sprint 2014-08-02 <http://wolfprojects.altervista.org/talks/development-process-of-python/#/>`_
 
+`Brian Curtin's Beginners Guide to Python Core Development <http://docs.pythonsprints.com/core_development/beginners.html>`_
+
 
 Sprint organizers
 -----------------

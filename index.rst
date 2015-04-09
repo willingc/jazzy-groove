@@ -30,6 +30,7 @@ Contents:
    finding-your-groove.rst
    resources.rst
    sprints.rst
+   checklists.rst
 
 
 Indices and tables

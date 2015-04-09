@@ -1,40 +1,72 @@
 .. _resources:
 
-Resources
-=========
+Jump Into It
+============
+Getting started as a contributor to CPython can feel a bit overwhelming. Where
+to start, who to ask, and what tools to use remind us that there are lots of
+details.
+
+A plan, just like learning to play an instrument or sing, can make the journey
+smoother. In music, one is always learning and refining one's skills. One key
+is to begin playing and listening immediately and then build up mastery over
+time.
+
+Let's see how the plan would look for CPython:
+
+Method and Sheet Music
+======================
 Python Developer's Guide
 ------------------------
-`Python Developer's Guide <https://docs.python.org/devguide/index.html>`_
-Official documentation of how to contribute to CPython.
+`Python Developer's Guide`_
+    Official documentation on how to contribute to CPython.
 
-`Quickstart <https://docs.python.org/devguide/#quick-start>`_
-A few simple steps to getting the source code and running the tests.
+.. _`Python Developer's Guide`: https://docs.python.org/devguide/index.html
+
+`Quickstart`_
+    Steps for getting the source code and running the tests. Three concise steps
+    have three one-line commands to:
+
+        1. Get the source
+        2. Build the source
+        3. Run the tests
+
+    Go ahead. Give it a try.
+
+.. _`Quickstart`: https://docs.python.org/devguide/#quick-start
 
 Helpful 'Official' Documentation
 --------------------------------
-`Python Developer FAQ <https://docs.python.org/devguide/faq.html>`_
-Communications, Version Control, SSH, General
+`Python Developer FAQ`_
+    Q&A on Communications, Version Control, SSH, General topics
 
-`Developer Log <https://docs.python.org/devguide/developers.html>`_
-Developers with commit privileges from April 2005
+.. _Python Developer FAQ: https://docs.python.org/devguide/faq.html
 
-`Core Developer Responsiblities <https://docs.python.org/devguide/coredev.html#responsibilities>`_
 
-* Be a good person.
-* Please be prompt in responding to questions.
-* Please list what areas you want to be considered an expert in the Experts Index.
-* Have fun.
+`Core Developer Responsibilities`_
+    Some reponsibilities of core developers to the community:
 
-We are all volunteers.
+        * Be a good person.
+        * Please be prompt in responding to questions.
+        * Please list what areas you want to be considered an expert in the Experts Index.
+        * Have fun.
 
-`Experts Index <https://docs.python.org/devguide/experts.html#experts>`_
+.. _`Core Developer Responsibilities`: https://docs.python.org/devguide/coredev.html#responsibilities
 
-Stdlib, Tools, Platforms, Miscellaneous
 
-More docs
----------
-`Misc/porting <https://hg.python.org/cpython/file/default/Misc/Porting>`_
-`Misc/SpecialBuilds.txt <https://hg.python.org/cpython/file/default/Misc/SpecialBuilds.txt>`_
+`Experts Index`_
+    A guide to developers and their expertise and interests in Stdlib, Tools, Platforms, and Miscellaneous.
+
+.. _`Experts Index`: https://docs.python.org/devguide/experts.html#experts
+
+
+`Developer Log`_
+    Developers with commit privileges from April 2005.
+
+.. _`Developer Log`: https://docs.python.org/devguide/developers.html
+
+`Misc/porting source file <https://hg.python.org/cpython/file/default/Misc/Porting>`_
+
+`Misc/SpecialBuilds.txt source file <https://hg.python.org/cpython/file/default/Misc/SpecialBuilds.txt>`_
 
 Tools
 -----
@@ -46,8 +78,10 @@ Tools
 Release information
 -------------------
 
-`PEPs Python Enhancement Proposals <https://www.python.org/dev/peps/>`_
-Upcoming release content and timelines can be found here.
+`PEPs Python Enhancement Proposals`_
+    Upcoming release content and timelines can be found here.
+
+.. _`PEPs Python Enhancement Proposals`: https://www.python.org/dev/peps/
 
 Communication
 -------------
@@ -110,7 +144,3 @@ Documentation
 
 More links
 ----------
-Brian Curtin - Beginners Guide to Python Core Development
-http://docs.pythonsprints.com/core_development/beginners.html
-
-
