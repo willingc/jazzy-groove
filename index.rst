@@ -28,8 +28,9 @@ Contents:
    :maxdepth: 2
 
    finding-your-groove.rst
-   getting-started.rst
+   resources.rst
    takeaway.rst
+   sprints.rst
 
 
 Indices and tables

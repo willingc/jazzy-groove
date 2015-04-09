@@ -1,11 +1,3 @@
-.. _takeaway:
-
-Takeaway
-========
-
-Here is a brief overview of helpful resources for developing
-CPython.
-
 .. _resources:
 
 Resources
@@ -37,6 +29,10 @@ We are all volunteers.
 
 Stdlib, Tools, Platforms, Miscellaneous
 
+More docs
+---------
+`Misc/porting <https://hg.python.org/cpython/file/default/Misc/Porting>`_
+`Misc/SpecialBuilds.txt <https://hg.python.org/cpython/file/default/Misc/SpecialBuilds.txt>`_
 
 Tools
 -----
