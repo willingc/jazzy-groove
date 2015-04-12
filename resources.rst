@@ -39,7 +39,7 @@ Helpful 'Official' Documentation
 `Python Developer FAQ`_
     Q&A on Communications, Version Control, SSH, General topics
 
-.. _Python Developer FAQ: https://docs.python.org/devguide/faq.html
+.. _`Python Developer FAQ`: https://docs.python.org/devguide/faq.html
 
 
 `Core Developer Responsibilities`_
